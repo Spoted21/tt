@@ -6,6 +6,7 @@
 #'
 #' @param times the number of times to blink
 #' @param Color the name of the color to blink
+#' @param printcomm print the command, logical TRUE or FALSE
 #'
 #' 
 #' @keywords package
