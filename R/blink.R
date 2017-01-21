@@ -7,7 +7,7 @@
 #' @param times the number of times to blink
 #' @param Color the name of the color to blink
 #'
-#' @Details The value for Color may be one of the following:
+#' The value for Color may be one of the following:
 #' white,red,lime,blue,yellow,cyan,magenta,silver,gray,maroon,olive,green,purple,teal or navy.
 #' 
 #' The times variable is expecting an int greater than zero.
